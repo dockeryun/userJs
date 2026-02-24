@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         北森iTalent全能学习助手 - 加速 & 自动点击
+// @name         italent.cn北森全能学习助手 - 加速 & 自动点击
 // @namespace    https://greasyfork.org/users/123456
 // @version      2.2
-// @description  SB人事强制要求看视频，自动设置视频2倍速、后台播放、防止暂停、自动点击“继续学习”、“确定”等弹窗，彻底解放双手！
+// @description  italent.cn北森,SB人事强制要求看视频，自动设置视频2倍速、后台播放、防止暂停、自动点击“继续学习”、“确定”等弹窗，彻底解放双手！
 // @author       SB人事
 // @match        https://cloud.italent.cn/*
 // @match        http://cloud.italent.cn/*
